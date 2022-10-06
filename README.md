@@ -1,5 +1,7 @@
 ![](http://antzuhl.cn:4000/get/@ChangWenhan.readme)
 
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+
 - 👋 Hi, I’m @ChangWenhan
 - 👀 I’m interested in Privacy Preservation
 - 🌱 I’m currently learning Deep Learning, Privacy Preservation & Love
