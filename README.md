@@ -22,8 +22,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Text     19 mins         █████████████████▒░░░░░░░   69.00 %
-Python   8 mins          ███████▓░░░░░░░░░░░░░░░░░   31.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
