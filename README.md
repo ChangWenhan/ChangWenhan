@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Bash     19 mins         ██████████████▓░░░░░░░░░░   58.28 %
-Python   14 mins         ██████████▒░░░░░░░░░░░░░░   41.72 %
+Python   14 mins         █████████████████░░░░░░░░   67.90 %
+Bash     6 mins          ████████░░░░░░░░░░░░░░░░░   32.10 %
 ```
 
 <!--END_SECTION:waka-->
