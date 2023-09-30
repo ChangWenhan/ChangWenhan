@@ -22,8 +22,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 19 mins   █████████████████████████   99.96 %
-BibTeX   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+BibTeX   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
