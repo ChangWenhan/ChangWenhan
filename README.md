@@ -1,14 +1,20 @@
 <!--
   GitHub Profile README — Wenhan Chang (ChangWenhan)
-  · Banner: assets/header.svg
+  Theme: BanG Dream! It's MyGO!!!!! — 迷子でもいい、迷子でも進め。
+  Banner: assets/header.svg
+  GIFs: media.tenor.com (MyGO!!!!!)
 -->
 
 <a href="https://changwenhan.github.io">
-  <img src="assets/header.svg" alt="Wenhan Chang — PhD Researcher in AI Safety & Privacy" width="100%">
+  <img src="assets/header.svg" alt="Wenhan Chang — MyGO!!!!! themed banner" width="100%">
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=7C9CF5&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Hi%2C+I%27m+Wenhan+Chang+%F0%9F%91%8B;AI+Safety+%26+Privacy+Researcher;LLM+Safety+%E2%80%A2+Machine+Unlearning+%E2%80%A2+Privacy;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG — Wenhan Chang">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=FFB74D&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Hi%2C+I%27m+Wenhan+Chang+%F0%9F%91%8B;It%27s+MyGO%21%21%21%21%21+-+AI+Safety+%26+Privacy;%E8%BF%B7%E5%AD%90%E3%81%A7%E3%82%82%E3%81%84%E3%81%84%E3%80%81%E8%BF%B7%E5%AD%90%E3%81%A7%E3%82%82%E9%80%B2%E3%82%81%E3%80%82;LLM+Safety+%C2%B7+Machine+Unlearning+%C2%B7+Privacy" alt="Typing SVG — MyGO themed">
+</p>
+
+<p align="center">
+  ♪ Now playing: <b>春日影 (Haruhikage)</b> — MyGO!!!!! 🎸
 </p>
 
 <p align="center">
@@ -22,17 +28,57 @@
 
 ---
 
-## 👨‍🎓 About Me
+## 🎵 About Me · 迷星叫 (Mayoiuta)
 
-I'm a PhD researcher in **AI Safety & Privacy** at **Zhongnan University of Economics and Law** (Wuhan, China). I received my B.E. (2022) and M.E. (2025) from **China University of Geosciences, Wuhan**, where I worked on security and privacy in deep learning.
+> 🎶 *迷星叫 (Mayoiuta)* — even a lost star sings.
 
-My current research focuses on **LLM safety alignment**, **poisoning attacks & defenses**, and **machine unlearning** — keeping models safe, private, and forgetful when it matters.
-
-Recent work has appeared at IEEE TDSC, Computers & Security, KSEM, and more — see my [Google Scholar](https://scholar.google.com.hk/citations?user=TOeVVwkAAAAJ&hl=zh-CN).
+<table>
+  <tr>
+    <td width="75%">
+      I'm a <b>迷子 (lost child)</b> who found a lamp called <b>AI Safety &amp; Privacy</b> 🏮
+      <br><br>
+      A PhD researcher at <b>Zhongnan University of Economics and Law</b> (Wuhan), previously
+      B.E. (2022) and M.E. (2025) at <b>China University of Geosciences</b>. My research keeps
+      deep learning models <b>safe</b>, <b>private</b>, and able to <b>forget</b>:
+      <b>LLM safety alignment</b>, <b>poisoning attacks &amp; defenses</b>, and <b>machine unlearning</b>.
+      <br><br>
+      Like MyGO, we screw up the first songs, tune the strings, make noise —
+      and slowly find our own sound. 🎸
+      <br><br>
+      Recent work has appeared at IEEE TDSC, Computers &amp; Security, KSEM, and more —
+      see my <a href="https://scholar.google.com.hk/citations?user=TOeVVwkAAAAJ&hl=zh-CN">Google Scholar</a>.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.tenor.com/fwo-3T-yhcUAAAAM/tomori-takamatsu-mygo.gif" width="170" alt="Tomori singing">
+      <br>
+      <sub>🎤 高松 燈 — Tomori, my spirit animal</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎓 Education
+## 🎸 It's MyGO!!!!! · 壱雫空 (Hitoshizuku)
+
+> 🎶 *壱雫空 (Hitoshizuku)* — a single droplet of sky is enough to start a song.
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://media.tenor.com/fwo-3T-yhcUAAAAM/tomori-takamatsu-mygo.gif" width="130" alt="Tomori"><br><b>高松 燈</b><br><sub>🎤 Tomori · Vocal</sub></td>
+      <td align="center"><img src="https://media.tenor.com/BJwESFvpPFgAAAAM/anon-chihaya.gif" width="130" alt="Anon"><br><b>千早 愛音</b><br><sub>🎸 Anon · Guitar</sub></td>
+      <td align="center"><img src="https://media.tenor.com/kasp7RPJh7YAAAAM/bang-dream-bang-dream-its-mygo.gif" width="130" alt="MyGO!!!!!"><br><b>MyGO!!!!!</b><br><sub>🏮 The lost ones</sub></td>
+      <td align="center"><img src="https://media.tenor.com/3q6mDJkwaj4AAAAM/nagasaki-soyo-soyo-nagasaki.gif" width="130" alt="Soyo"><br><b>長崎 そよ</b><br><sub>🎸 Soyo · Bass</sub></td>
+    </tr>
+  </table>
+  <sub>＋ 要 楽奈 (guitar 🐈) · 椎名 立希 (drums 🥁) — 迷子のパンクバンド</sub>
+</p>
+
+---
+
+## 🎓 Education · 春日影 (Haruhikage)
+
+> 🎶 *春日影 (Haruhikage)* — spring sunlight warms new beginnings.
 
 | Time | Degree | Institution |
 | :--- | :--- | :--- |
@@ -42,7 +88,9 @@ Recent work has appeared at IEEE TDSC, Computers & Security, KSEM, and more — 
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research Interests · 詩超絆 (Utakotoba)
+
+> 🎶 *詩超絆 (Utakotoba)* — bonds woven together by song.
 
 <table align="center">
   <tr>
@@ -69,7 +117,9 @@ Recent work has appeared at IEEE TDSC, Computers & Security, KSEM, and more — 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack · 碧天伴走 (Hekiten Bansou)
+
+> 🎶 *碧天伴走 (Hekiten Bansou)* — walking together under the blue sky.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -83,21 +133,10 @@ Recent work has appeared at IEEE TDSC, Computers & Security, KSEM, and more — 
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChangWenhan&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangWenhan&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChangWenhan&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-<p align="center">
-  <i>Always open to collaboration on AI safety & privacy research — feel free to reach out! 💬</i>
+  <i>「迷子でもいい、迷子でも進め。」</i> — MyGO!!!!!
+  <br>
+  <sub>If you're lost too — welcome to the band. 🎸</sub>
   <br><br>
   <img src="https://count.getloli.com/get/@:ChangWenhan?theme=gelbooru" alt="Visitor Counter">
 </p>
