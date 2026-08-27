@@ -1,7 +1,7 @@
 <!--
   GitHub Profile README — Wenhan Chang (ChangWenhan)
   Theme: pink sakura · MyGO!!!!! 迷子でもいい、迷子でも進め。
-  Art: assets/header.svg · assets/sakura.svg
+  Art: assets/header.svg · assets/mygo-icon.svg
 -->
 
 <a href="https://changwenhan.github.io">
@@ -27,19 +27,19 @@
 
 ---
 
-## 🌸 About Me
+## <img src="assets/mygo-icon.svg" width="26" alt="MyGO"> About Me · 迷星叫 (Mayoiuta)
 
-> 迷子でもいい、迷子でも進め。 — even a lost child can move forward. 🏮
+> 🎶 *迷星叫 (Mayoiuta)* — even a lost star sings.
 
 PhD researcher in **AI Safety & Privacy** at **Zhongnan University of Economics and Law** (Wuhan). My research keeps deep learning models *safe*, *private*, and able to *forget*: **LLM safety alignment**, **poisoning attacks &amp; defenses**, and **machine unlearning** — mostly with Python and lots of coffee ☕
 
+迷子でもいい、迷子でも進め。 — a lost child can still move forward. 🏮
+
 Recent work has appeared at IEEE TDSC, Computers &amp; Security, KSEM, and more — see my [Google Scholar](https://scholar.google.com.hk/citations?user=TOeVVwkAAAAJ&hl=zh-CN).
 
-<p align="center">
-  <img src="assets/sakura.svg" alt="sakura" width="44">
-</p>
+## <img src="assets/mygo-icon.svg" width="26" alt="MyGO"> Research Interests · 詩超絆 (Utakotoba)
 
-## 🔬 Research Interests
+> 🎶 *詩超絆 (Utakotoba)* — bonds woven together by song.
 
 <table align="center">
   <tr>
@@ -66,7 +66,9 @@ Recent work has appeared at IEEE TDSC, Computers &amp; Security, KSEM, and more 
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="assets/mygo-icon.svg" width="26" alt="MyGO"> Tech Stack · 碧天伴走 (Hekiten Bansou)
+
+> 🎶 *碧天伴走 (Hekiten Bansou)* — walking together under the blue sky.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
