@@ -1,8 +1,8 @@
 <!--
   GitHub Profile README — Wenhan Chang (ChangWenhan)
   Theme: pink sakura · MyGO!!!!! 迷子でもいい、迷子でも進め。
-  Art: assets/header.svg · assets/mygo-logo.png
-  (MyGO!!!!! logo © BanG Dream! Project / Bushiroad, from Wikimedia Commons)
+  Art: assets/header.svg · assets/sakiko-icon.png
+  (豊川祥子 Sakiko © BanG Dream! Project / Bushiroad; image from fan archive)
 -->
 
 <a href="https://changwenhan.github.io">
@@ -28,7 +28,7 @@
 
 ---
 
-## <img src="assets/mygo-logo.png" width="30" alt="MyGO"> About Me · 迷星叫 (Mayoiuta)
+## <img src="assets/sakiko-icon.png" width="32" alt="Sakiko"> About Me · 迷星叫 (Mayoiuta)
 
 > 🎶 *迷星叫 (Mayoiuta)* — even a lost star sings.
 
@@ -38,7 +38,7 @@ PhD researcher in **AI Safety & Privacy** at **Zhongnan University of Economics 
 
 Recent work has appeared at IEEE TDSC, Computers &amp; Security, KSEM, and more — see my [Google Scholar](https://scholar.google.com.hk/citations?user=TOeVVwkAAAAJ&hl=zh-CN).
 
-## <img src="assets/mygo-logo.png" width="30" alt="MyGO"> Research Interests · 詩超絆 (Utakotoba)
+## <img src="assets/sakiko-icon.png" width="32" alt="Sakiko"> Research Interests · 詩超絆 (Utakotoba)
 
 > 🎶 *詩超絆 (Utakotoba)* — bonds woven together by song.
 
