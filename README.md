@@ -1,7 +1,8 @@
 <!--
   GitHub Profile README — Wenhan Chang (ChangWenhan)
   Theme: pink sakura · MyGO!!!!! 迷子でもいい、迷子でも進め。
-  Art: assets/header.svg · assets/mygo-icon.svg
+  Art: assets/header.svg · assets/mygo-logo.png
+  (MyGO!!!!! logo © BanG Dream! Project / Bushiroad, from Wikimedia Commons)
 -->
 
 <a href="https://changwenhan.github.io">
@@ -27,7 +28,7 @@
 
 ---
 
-## <img src="assets/mygo-icon.svg" width="26" alt="MyGO"> About Me · 迷星叫 (Mayoiuta)
+## <img src="assets/mygo-logo.png" width="30" alt="MyGO"> About Me · 迷星叫 (Mayoiuta)
 
 > 🎶 *迷星叫 (Mayoiuta)* — even a lost star sings.
 
@@ -37,7 +38,7 @@ PhD researcher in **AI Safety & Privacy** at **Zhongnan University of Economics 
 
 Recent work has appeared at IEEE TDSC, Computers &amp; Security, KSEM, and more — see my [Google Scholar](https://scholar.google.com.hk/citations?user=TOeVVwkAAAAJ&hl=zh-CN).
 
-## <img src="assets/mygo-icon.svg" width="26" alt="MyGO"> Research Interests · 詩超絆 (Utakotoba)
+## <img src="assets/mygo-logo.png" width="30" alt="MyGO"> Research Interests · 詩超絆 (Utakotoba)
 
 > 🎶 *詩超絆 (Utakotoba)* — bonds woven together by song.
 
@@ -63,22 +64,6 @@ Recent work has appeared at IEEE TDSC, Computers &amp; Security, KSEM, and more 
     </td>
   </tr>
 </table>
-
----
-
-## <img src="assets/mygo-icon.svg" width="26" alt="MyGO"> Tech Stack · 碧天伴走 (Hekiten Bansou)
-
-> 🎶 *碧天伴走 (Hekiten Bansou)* — walking together under the blue sky.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
 
 ---
 
